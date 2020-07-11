@@ -1,5 +1,20 @@
 # Trained A Neural Network To Play 2048 using Deep-Reinforcement Learning
+## Dependencies
+To play the game with pretrained model:
+* Python 3++ (Python2 can also be used but requires additional tinkering the code)
+* TensorFlow 2.0 (TensorFlow 1 can also be used but requires additional tinkering the code)   
+* Tkinter (should come with python 3)
 
+To train:
+* Jupyter notebook
+
+## How to run
+```
+git clone https://github.com/moonmedtwo/PractionerProject.git
+python Code/GamePlay.py
+```
+
+## Poster
 | **Title**      |Deep Q-learning net plays 2048 game|
 | ---------- |-------------------|
 | **Team**       |Vu Quoc Anh - moonmtwo@gmail.com|

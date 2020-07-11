@@ -1,0 +1,14 @@
+#conv layer1 depth
+depth1 = 256
+
+#conv layer2 depth
+depth2 = 128
+
+#input depth
+input_depth = 16
+
+#fully conneted hidden layer
+hidden_units = 256
+
+#output layer
+output_units = 4
